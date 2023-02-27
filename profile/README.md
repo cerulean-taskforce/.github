@@ -4,4 +4,4 @@ We develop software for Garry's Mod in several different fields. We don't have m
 
 Right now, these are our current projects:
 ### Starfall Projects
-* [Modular Hud](https://github.com/horizon-technologies/ModularHud)
+* [Modular Hud](https://github.com/horizon-technologies/ModularHud): An implementation of a modular HUD in SF for Garry's Mod 
